@@ -1,0 +1,9 @@
+0x0001 2014-08-19T21:31:30UTC 2019-08-19T21:31:30UTC /CN=Puppet CA generated on ip-172-31-43-22.us-west-2.compute.internal at 2014-08-20 17:31:26 -0400
+0x0002 2014-08-19T21:31:31UTC 2019-08-19T21:31:31UTC /CN=ec2-54-187-13-174.us-west-2.compute.amazonaws.com
+0x0003 2014-08-19T21:32:01UTC 2019-08-19T21:32:01UTC /CN=pe-internal-dashboard
+0x0004 2014-08-19T21:32:38UTC 2019-08-19T21:32:38UTC /CN=pe-internal-mcollective-servers
+0x0005 2014-08-19T21:32:41UTC 2019-08-19T21:32:41UTC /CN=pe-internal-peadmin-mcollective-client
+0x0006 2014-08-19T21:32:42UTC 2019-08-19T21:32:42UTC /CN=pe-internal-puppet-console-mcollective-client
+0x0007 2014-08-19T21:32:46UTC 2019-08-19T21:32:46UTC /CN=pe-internal-broker
+0x0008 2014-08-19T21:54:39UTC 2019-08-19T21:54:39UTC /CN=ip-172-31-41-170.us-west-2.compute.internal
+0x0009 2014-08-24T18:00:35UTC 2019-08-24T18:00:35UTC /CN=ip-172-31-38-237.us-west-2.compute.internal

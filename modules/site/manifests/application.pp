@@ -6,4 +6,21 @@ wget::fetch { "downloading the latest application war file":
   timeout     => 0,
   verbose     => false,
 }
+define tomcat::deployment($path) {
+
+include tomcat
+notice("Establishing    http://$hostname:${tomcat::tomcat_port}/$name/")
+
+
+  file { "/var/lib/tomcat/webapps/${name}.war":
+    owner => 'tomcat',
+    source => $path,
+  }
+
+}
+
+tomcat::deployment { "OptimusPrime":
+      path => '/tmp/myproject-1.1.66.war'
+   }
+
 }

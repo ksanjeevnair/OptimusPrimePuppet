@@ -2,8 +2,8 @@
 #
 #
 class jenkins::params {
-#  $version            = 'installed'
-  $version            = 'latest'
+   $version            = 'installed'
+#  $version            = '1.598'
   $lts                = false
   $repo               = true
   $service_enable     = true

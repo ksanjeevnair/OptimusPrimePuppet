@@ -164,9 +164,9 @@
 		$tomcat_file_name	= "apache-tomcat-8.0.9"
 	}
 	'7': {
-		$tomcatDownloadURI 	= "http://mirror.metrocast.net/apache/tomcat/tomcat-7/v7.0.55/bin/apache-tomcat-7.0.55.tar.gz"
-		$web_home 		= "${tomcat_path}/apache-tomcat-7.0.55"
-		$tomcat_file_name	= "apache-tomcat-7.0.55"
+		$tomcatDownloadURI 	= "http://apache.osuosl.org/tomcat/tomcat-7/v7.0.57/bin/apache-tomcat-7.0.57.tar.gz"
+		$web_home 		= "${tomcat_path}/apache-tomcat-7.0.57"
+		$tomcat_file_name	= "apache-tomcat-7.0.57"
 	}
 	default: {
             	fail("Unsupported tomcat_version: ${tomcat_version}.  Implement me?")

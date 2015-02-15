@@ -30,4 +30,9 @@ file { "/replace_placeholders.sh":
     source => "puppet:///modules/site/replace_placeholders.sh"
 }
 
+exec {"replace_db_user_password":
+    command  => "sh replace_placeholders.sh __mysql_user_password__ /usr/tomcat/apache-tomcat-7.0.57/webapps/OptimusPrime/WEB-INF/classes/applicationContext-resources.xml ~/.my.cnf",
+    path     => "/usr/local/bin:/bin:/",
+}
+
 }

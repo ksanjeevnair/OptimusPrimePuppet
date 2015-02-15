@@ -1,0 +1,14 @@
+{
+  "LICENSE": "6c4db32a2fa8717faffa1d4f10136f47",
+  "README.md": "59046a78a3baaae6739e11c49afcf160",
+  "Rakefile": "20b80e526e351a74df2001f504e756d2",
+  "files/firefox.desktop": "9e14888526e1f0f6a559465236999594",
+  "files/firefox.png": "3d5212e7cd8f3d6ba81b5f973f963dfb",
+  "manifests/config.pp": "b30a39444724fc8c519b164b0bd49792",
+  "manifests/init.pp": "9cc3232f5d38c84965345363172efcb4",
+  "manifests/install.pp": "448a32545a0ff2a39a3b2184958326f9",
+  "manifests/params.pp": "85ee0115f02e541ea618dc7acaf6087a",
+  "metadata.json": "aeb22b92b1ebf14cf65026712ec76460",
+  "spec/classes/init_spec.rb": "28854da266be723f446c9b2e34ca49e5",
+  "spec/spec_helper.rb": "a55d1e6483344f8ec6963fcb2c220372"
+}

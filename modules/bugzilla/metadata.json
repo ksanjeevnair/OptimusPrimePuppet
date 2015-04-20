@@ -1,0 +1,25 @@
+{
+  "dependencies": [
+
+  ],
+  "project_page": "UNKNOWN",
+  "summary": "UNKNOWN",
+  "checksums": {
+    "tests/010_configure_main_env.pp": "ddedcf006397f8256ac15156daff137c",
+    "manifests/project.pp": "7cef45d73a58351af71d4aa027818547",
+    "tests/001_install_bugzilla.pp": "126b485be61e520d09fef9dfe22c934f",
+    "manifests/init.pp": "25d215e7bca9387fe796615a3c5c25bd",
+    "templates/answer.erb": "2879e6c80a7229871f16c82c376a263c",
+    "Modulefile": "3db2b0d68d15149e3b6b59dfb6362e45",
+    "README": "20f20fa8948ea7c18c63de0e7ca716f4"
+  },
+  "description": "UNKNOWN",
+  "types": [
+
+  ],
+  "source": "UNKNOWN",
+  "author": "bobsh",
+  "license": "Apache License, Version 2.0",
+  "name": "bobsh-bugzilla",
+  "version": "1.0.0"
+}
